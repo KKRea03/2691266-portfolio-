@@ -1,0 +1,1 @@
+I learnt to use code like how to write code using HTML.I also learnt the fundamentals of version control using Git and GitHub while building a semantic HTML portfolio page.Lastely the HTML tags.
